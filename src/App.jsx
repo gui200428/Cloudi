@@ -1,12 +1,12 @@
-import "./App.css";
+import './App.css'
 
 function App() {
 
   return (
-    <div className="container">
-      <h1>Cloudi!</h1>
-    </div>
-  );
+    <>
+      <h1>Cloud!</h1>
+    </>
+  )
 }
 
-export default App;
+export default App
