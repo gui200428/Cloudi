@@ -1,0 +1,8 @@
+.About{
+  display: grid;
+  grid-template-rows: 50px 50px;
+}
+
+.aboutText{
+  text-align: left;
+}

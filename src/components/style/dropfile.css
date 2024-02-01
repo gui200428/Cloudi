@@ -1,0 +1,24 @@
+.dropfile{
+  border: 2px dashed #fff;
+  opacity: 50%;
+  border-radius: 10px;
+  padding: 100px;
+  margin-bottom: 50px;
+}
+
+h1{
+  display: inline;
+  padding: 10px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 100;
+}
+a, #icon{
+font-size: 20px;
+color: white;
+text-decoration: none;
+}
+
+#icon{
+  padding: 5px;
+}
