@@ -1,0 +1,8 @@
+.settings{
+  display: grid;
+  grid-template-rows: 50px 50px;
+}
+
+.settingsText{
+  text-align: left;
+}
